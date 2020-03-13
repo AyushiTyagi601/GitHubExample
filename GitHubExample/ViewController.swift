@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("update some code")
-        print("new deleted operation")
+       
         // Do any additional setup after loading the view.
     }
 
