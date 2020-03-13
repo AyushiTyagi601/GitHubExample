@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("update some code")
         print("new deleted operation")
+         print("added some features")
         // Do any additional setup after loading the view.
     }
 
